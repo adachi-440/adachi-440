@@ -13,4 +13,4 @@ Learn more about Futaba: [Futaba Introduction](https://futaba.gitbook.io/docs/in
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adachi-440)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adachi-440&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
